@@ -1,7 +1,7 @@
 ### oi👋, Me chamo Victor Batista Passos
 
 - 🔭 Desenvolvedor Front-End
-- 🌱 Html, Css, JavaScript, React, Nodejs
+- 🌱 Html, Css, JavaScript, React,
 - 📫 Contatos: vbatistapassos@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorBP02&theme=dark&show_icons=true)
