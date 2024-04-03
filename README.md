@@ -25,3 +25,9 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
 </div></br>
+
+<div align="center">
+<br><p align="centre"><b>visitas:</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorbp02}/count.svg" /></p> 
+<br>
+</div>
