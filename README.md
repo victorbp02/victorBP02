@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=38&center=true&vCenter=true&width=1000&lines=Olá,Sou+Desenvolvedor+Web;Seja+Bem-Vindo)](https://git.io/typing-svg)
+
 ### oi👋, Me chamo Victor Batista Passos
 
 - 🔭 Desenvolvedor Web
