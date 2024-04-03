@@ -1,7 +1,7 @@
 ### oi👋, Me chamo Victor Batista Passos
 
-- 🔭 Desenvolvedor Front-End
-- 🌱 Html, Css, JavaScript, React,
+- 🔭 Desenvolvedor Web
+- 🌱 Html, Css, JavaScript, React, Nodejs
 ## 📫 Contatos:
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-batista-passos-5805a3201/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbatistapassos@gmail.com)
 
