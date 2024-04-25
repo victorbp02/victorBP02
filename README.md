@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=38&center=true&vCenter=true&width=1000&lines=Olá,Sou+Desenvolvedor+Web;Seja+Bem-Vindo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=38&center=true&vCenter=true&width=1000&lines=Olá,Sou+Desenvolvedor+Full+Stack;Seja+Bem-Vindo)](https://git.io/typing-svg)
 
 ### oi👋, Me chamo Victor Batista Passos
 
-- 🔭 Desenvolvedor Web
+- 🔭 Desenvolvedor Full Stack
 - 🌱 Html, Css, JavaScript, React, Nodejs, Python, Typescript
 ## 📫 Contatos:
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-batista-passos-5805a3201/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbatistapassos@gmail.com)
