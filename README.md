@@ -3,7 +3,7 @@
 ### oi👋, Me chamo Victor Batista Passos
 
 - 🔭 Desenvolvedor Full Stack
-- 🌱 Html, Css, JavaScript, React, Nodejs, Python, Typescript
+- 🌱 Html, Css, JavaScript, React, Nodejs, Python, Typescript, Java
 ## 📫 Contatos:
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-batista-passos-5805a3201/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbatistapassos@gmail.com)
 
@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node js">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+<img src="https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
 </div><br>
 
 ## Ferramentas principais:
